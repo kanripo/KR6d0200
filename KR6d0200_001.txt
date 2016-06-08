@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:38.465373
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 千手眼大悲心呪行法
 #+PROPERTY: CBETA_ID T46n1950
 #+PROPERTY: ID KR6d0200
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1950
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0200_T_001-0973a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1950¶
-
- 千手眼大悲心呪行法¶
+No. 1950¶
+千手眼大悲心呪行法¶
 ¶
 四明沙門知禮集¶
 
@@ -334,9 +333,9 @@ No.1950¶
 　南無大悲觀世音
 　願我速會無為舍¶
 　南無大悲觀世音
-　願我早同法性身
+　願我早同法性身」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　我若向刀山
@@ -350,9 +349,9 @@ No.1950¶
 　我若向修羅
 　惡心自調伏¶
 　我若向畜生
-　自得大智慧
+　自得大智慧」
 #+END_VERSE
-」¶
+¶
 
 經云發是願已。至心稱念我之名字。亦應專¶
 念我本師。阿彌陀如來。然後即當誦此陀羅¶
@@ -522,7 +521,7 @@ No.1950¶
 諸法雖空證由觀道。觀不調適品次不生。道¶
 品相生成空觀心。蔽資理惑不顯真如。事度¶
 助開見生齊佛。名恭敬心。乍息麁心謂為深¶
-詣。若知圓位上慢可祛。名卑下心。名利眷屬¶
+詣。若知圓位上慢可袪。名卑下心。名利眷屬¶
 三術離之。三昧可成名無雜亂心。行上九事¶
 過內外障。若起法愛則不得前能離此愛方¶
 登分果。名無上菩提心。上根觀境即入初住。¶
